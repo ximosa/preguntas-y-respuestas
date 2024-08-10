@@ -17,6 +17,7 @@
 
 <!-- wp:list-item -->
 <li>Responde a las preguntas utilizando el editor TinyMCE.</li>
+<li>Visita <a href="https://firestore-c15f8.web.app/" target="_blank" rel="noreferrer noopener">https://firestore-c15f8.web.app/</a></li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
