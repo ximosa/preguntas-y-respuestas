@@ -1,4 +1,25 @@
-una web para preguntas y respuestas en firebase
+<!-- wp:heading -->
+<h2 class="wp-block-heading">¿Cómo puedo empezar a usarla?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>Visita <a href="https://firestore-c15f8.web.app/" target="_blank" rel="noreferrer noopener">https://firestore-c15f8.web.app/</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Inicia sesión con tu cuenta de Google.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Explora las preguntas existentes o crea una nueva.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Responde a las preguntas utilizando el editor TinyMCE.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Reglas para Realtime Database</h3>
 <!-- /wp:heading -->
